@@ -1,0 +1,9 @@
+# Forked Repository
+
+Required curl command for the assignment:
+
+curl -L -X POST -H "Accept: application/vnd.github+json" https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+The connected GitHub tool does not provide a fork-creation action, so terminal output has not been fabricated.
+
+Run the command locally while authenticated with GitHub, then paste the successful JSON response below it for the final assignment evidence.
