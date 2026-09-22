@@ -1,0 +1,13 @@
+# GitHub Branches
+
+Branches created for this assignment:
+
+main
+bug-fix-typo
+
+The bug-fix-typo branch was created from main and contains one changed file.
+
+For the required terminal evidence, run:
+
+git branch
+git status
