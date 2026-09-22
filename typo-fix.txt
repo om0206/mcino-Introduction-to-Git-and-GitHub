@@ -1,0 +1,1 @@
+Bug fix: corrected the project description typo.
