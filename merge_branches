@@ -1,0 +1,12 @@
+# Merge Branches
+
+Required terminal commands:
+
+git checkout main
+git merge bug-fix-typo
+
+Expected result after pulling the latest repository state:
+- branch switched to main
+- one file changed by the merge (typo-fix.txt)
+
+Run these commands locally to capture the terminal output required by the rubric.
