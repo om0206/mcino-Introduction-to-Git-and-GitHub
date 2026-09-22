@@ -1,0 +1,16 @@
+# Pull Request Verification
+
+Command to verify the pull request:
+
+curl -L -H "Accept: application/vnd.github+json" https://api.github.com/repos/om0206/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+Verified pull request:
+- PR: #1
+- Title: Fix typo in project documentation
+- Head repository: om0206/mcino-Introduction-to-Git-and-GitHub
+- Head branch: bug-fix-typo
+- Base branch: main
+- State: open
+- Changed files: 1
+
+Note: these values were verified through the connected GitHub repository. Run the curl command locally if the assignment requires terminal output.
